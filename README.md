@@ -46,5 +46,5 @@ Clique para gerar uma frase aleatória, motivacional.
 
 Insira os preços do álcool e da gasolina e veja qual vale mais a pena para abastecer seu veículo.  
 
-Com texto explicando o porquê de ser melhor abastecer com deterinados combustíveis.
+Com texto explicando o porquê de ser melhor abastecer com determinados combustíveis.
 ![image](https://github.com/user-attachments/assets/023f17d8-9cf5-4dd9-9572-6a51d19fb285)
