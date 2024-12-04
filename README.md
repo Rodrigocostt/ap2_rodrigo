@@ -13,7 +13,7 @@
 - **Tela de Jogos: com as seguintes opções de jogos:**
    1. Jokenpô;
    2. Cara ou Coroa;
-   3. Jogo de Livre Escolha, no caso, um versão simplificda de Flappy Bird.
+   3. Jogo de Livre Escolha, no caso, um versão simplificada de Flappy Bird.
    
 ![image](https://github.com/user-attachments/assets/e775a3c0-38ef-49b5-aa4e-ac0f020a8c82)
 
