@@ -20,7 +20,7 @@
 ##### Jokenpô:
 ![image2](https://github.com/user-attachments/assets/e209be8b-e9fa-4b8a-bb74-ae6960f1c6e9)
 
-##### Cara ou Corôa:
+##### Cara ou Coroa:
 ![image3](https://github.com/user-attachments/assets/def656f4-6e6d-4308-863d-08cedb2a322d)
 
 ##### Flappy Bird:
@@ -35,13 +35,16 @@
 
 ![image6](https://github.com/user-attachments/assets/2095b1d2-7a13-4911-8ae9-92c4eb6cdce2)
  
-**Tela de frases diárias:**
+**Tela de frases diárias:**  
+
 Clique para gerar uma frase aleatória, motivacional.
 ![image7](https://github.com/user-attachments/assets/3f405dea-2018-42f6-a2fd-d8cc6c197f40)
 ![image](https://github.com/user-attachments/assets/10ba26d4-d5ff-49e8-a4e5-d1945f50c992)
 
 
-**Tela de comparação de combustível:**
-Insira os preços do álcool e da gasolina e veja qual vale mais a pena para abastecer seu veículo.
+**Tela de comparação de combustível:**  
+
+Insira os preços do álcool e da gasolina e veja qual vale mais a pena para abastecer seu veículo.  
+
 Com texto explicando o porquê de ser melhor abastecer com deterinados combustíveis.
 ![image](https://github.com/user-attachments/assets/023f17d8-9cf5-4dd9-9572-6a51d19fb285)
